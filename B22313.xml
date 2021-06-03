@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Another order of the Commons assembled in Parliament concerning coals requiring the Lord Major of the city of London forthwith to put the former ordinance concerning the prises of coals in execution : and in case he finde any obstruction</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22313</idno><idno type="EEBO-CITATION">12175001</idno>
+  <idno type="VID">197186</idno>
+  <idno type="EEBO-PROQUEST">2240943488</idno>
+  
+            <idno type="STC">Wing E2518</idno>
+            <idno type="OCLC">12175001</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22313)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197186)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 244:E99, no 6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Another order of the Commons assembled in Parliament concerning coals requiring the Lord Major of the city of London forthwith to put the former ordinance concerning the prises of coals in execution : and in case he finde any obstruction</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edw. Husbands ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Aprill 21, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Attachment and garnishment --  England.</term>
+               <term type="topical_term">Coal --  England --  Supply and demand.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197186:1"/>
+            <p>Another ORDER OF <hi>The Commons assembled in Parliament,</hi> Concerning COALS: Requiring the Lord Major of the city of <hi>London,</hi> forthwith to put the former Ordinance concerning the prises of Coals in execution; and in case he finde any obstruction therein, to seize on the Coals of such persons, and dispose of them at three and twenty shil<g ref="char:EOLhyphen"/>lings the Chaldron. Also, an Order of the Commons concerning such persons as shall refuse to execute the Ordinance for se<g ref="char:EOLhyphen"/>questring and seizing Delinquents and Papists Estates.</p>
+            <p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="license">
+                           <p>
+                              <hi>Ordered by the Commons Assembled in Parliament, That these Orders be forthwith Printed and published.</hi>
+                           </p>
+                           <closer>
+                              <signed>Hen: Elsynge Cler. Parl. D. Com.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edw. Husbands,</hi> and are to be sold at his shop in the middle Temple. Aprill 21. 1643.</p>
+            <pb facs="tcp:197186:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="proclamation">
+            <pb n="3" facs="tcp:197186:2"/>
+            <head>Die Sabbathi 15. April. 1643. An Order of the COMMONS as<g ref="char:EOLhyphen"/>assembled in Parliament, concerning COALS.</head>
+            <p>FOrasmuch as this House hath been in<g ref="char:EOLhyphen"/>formed, that notwithstanding the Or<g ref="char:EOLhyphen"/>dinance concerning the prizes of Coals yet the VVharfingers, Chandlers, and Coal-sellers, do exact unreasonable pri<g ref="char:EOLhyphen"/>ses, to the great oppression of the poorer sort of the Inhabitants of the city of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and the parts adjacent; It is therefore ordered by the Commons assembled in Parliament, That the Lord Major do
+<pb n="4" facs="tcp:197186:3"/> forthwith put the Order in execution concerning the price of coals; and that he give a speedy account thereof to this House, that in case he finde any Obstru<g ref="char:EOLhyphen"/>ction, this House may think of a course to remove the same; and that such as shall refuse to conform themselves to that Or<g ref="char:EOLhyphen"/>dinance, The Lord Major do forthwith seize on their coals, and dispose of them to the poor, paying for them after the Rate set upon them according to that Ordinance; And the Moneys thereupon to be raised, to be payed to the owners of the coals; And likewise that he take care, that the Chandlers and others Retaylers of coals, do not sell any coals by the Bu<g ref="char:EOLhyphen"/>shell, or any other way of Retayl, at any higher or greater Rate, then according to the Rate of Three and twenty shil<g ref="char:EOLhyphen"/>lings the chaldron, according as it is li<g ref="char:EOLhyphen"/>mited
+<pb n="5" facs="tcp:197186:3"/> and appointed by the said Ordi<g ref="char:EOLhyphen"/>nance; And that they be compelled to sell according to the said Rate: And it is further ordered, That the Marshall of the Admiralty be ordered to take a course, that such Ships as are laden with coals, bee brought to <hi>London</hi> to vent them.</p>
+         </div>
+         <div type="order_to_print">
+            <p>And it is further ordered by the said Commons, That this Order be forth<g ref="char:EOLhyphen"/>with printed and published:</p>
+            <closer>
+               <signed>H: Elsynge, Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="proclamation">
+            <pb n="6" facs="tcp:197186:4"/>
+            <head>
+               <hi>Die Veneris</hi> 14. <hi>April.</hi> 1643.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is this day ordered by the Commons House of Parlia<g ref="char:EOLhyphen"/>ment, That such particular persons of the Committees or Commissioners, named and appointed in the severall and respective Ordinan<g ref="char:EOLhyphen"/>ces of both Houses of Parliament for the raising of Monies for the service of the Parliament, in any Cities, Towns, or coun<g ref="char:EOLhyphen"/>ties of the Kingdom of <hi>England,</hi> and Do<g ref="char:EOLhyphen"/>minion of <hi>Wales,</hi> as shall refuse to joyn, or sign any VVarrants, or to meet the rest of the Committees or Commissioners, or to Act upon the said Ordinances for the service of the Parliament, expressed in
+<pb n="7" facs="tcp:197186:4"/> the said Ordinances, and shall not be detained by sicknesse, or other inevita<g ref="char:EOLhyphen"/>ble Impediments, shal be reputed, and ta<g ref="char:EOLhyphen"/>ken as persons ill-affected to the service of the Parliament; And it is further ordered, That the Names of all such persons for refusing or neglecting this service, shall be returned to the House of Commons by the residue of the said Committees or Commissioners, That thereupon the said House may take order that the said persons Estates shall be sei<g ref="char:EOLhyphen"/>zed, according to the Ordinance for se<g ref="char:EOLhyphen"/>questring and seizing the Estates of Pa<g ref="char:EOLhyphen"/>pists and notorious Delinquents.</p>
+            <closer>
+               <signed>H: Elsynge, Cler. Parl. D. Com.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
